@@ -1,0 +1,25 @@
+08:47:03.579 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Advanced Concepts\OpencartAutomation\master.xml
+
+08:47:07.885 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_006_EndToEndTest *****
+09:01:34.202 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Advanced Concepts\OpencartAutomation\master.xml
+
+09:01:39.643 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_006_EndToEndTest *****
+09:05:32.916 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+09:05:33.123 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+09:05:33.956 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+09:05:33.963 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+09:05:35.413 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+09:05:35.500 [main] INFO  testCases.TC_002_LoginTest - Login Test Passed...
+09:05:35.506 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+09:05:44.270 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest *****
+09:05:44.416 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My account Link***
+09:05:45.837 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My Registration Link***
+09:05:45.838 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Entering customer details ***
+09:05:49.674 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***clicked on continue***
+09:05:49.746 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Validating expected Message***
+09:05:49.746 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+09:05:49.746 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** End of TC_001_AccountRegistrationTest *****
+09:07:29.268 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_006_EndToEndTest *****
+09:09:15.128 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_006_EndToEndTest *****

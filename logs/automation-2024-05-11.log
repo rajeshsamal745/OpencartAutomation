@@ -1,0 +1,56 @@
+12:03:35.533 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6441c486: 158 ms
+12:03:35.579 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@66f659e6: 30 ms
+12:03:35.602 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@16ade133: 21 ms
+12:03:35.628 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2c6ee758: 25 ms
+12:03:35.648 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@256aa5f2: 19 ms
+12:03:35.649 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6411d3c8: 0 ms
+14:21:15.787 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Advanced Concepts\OpencartAutomation\master.xml
+
+14:21:23.527 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest *****
+14:21:23.731 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My account Link***
+14:21:24.721 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My Registration Link***
+14:21:24.721 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Entering customer details ***
+14:21:28.596 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***clicked on continue***
+14:21:28.667 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Validating expected Message***
+14:21:28.667 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+14:21:28.671 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** End of TC_001_AccountRegistrationTest *****
+14:21:44.229 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Advanced Concepts\OpencartAutomation\master.xml
+
+14:21:54.132 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest *****
+14:21:54.358 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My account Link***
+14:21:55.448 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My Registration Link***
+14:21:55.448 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Entering customer details ***
+14:21:59.340 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***clicked on continue***
+14:21:59.405 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***Validating expected Message***
+14:21:59.406 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+14:21:59.410 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** End of TC_001_AccountRegistrationTest *****
+14:25:18.116 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Advanced Concepts\OpencartAutomation\parallel.xml
+
+14:25:32.394 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest *****
+14:25:32.397 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** Starting TC_001_AccountRegistrationTest *****
+14:25:33.169 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My account Link***
+14:25:33.229 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My account Link***
+14:25:35.236 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My Registration Link***
+14:25:35.236 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Entering customer details ***
+14:25:35.252 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***Clicked on My Registration Link***
+14:25:35.252 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***Entering customer details ***
+14:25:40.381 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***clicked on continue***
+14:25:40.447 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***clicked on continue***
+14:25:40.501 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***Validating expected Message***
+14:25:40.502 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+14:25:40.508 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - *** End of TC_001_AccountRegistrationTest *****
+14:25:40.549 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***Validating expected Message***
+14:25:40.550 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+14:25:40.550 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - *** End of TC_001_AccountRegistrationTest *****
+14:35:52.712 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Advanced Concepts\OpencartAutomation\master.xml
+
+14:36:32.183 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Advanced Concepts\OpencartAutomation\master.xml
+
+14:37:39.100 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Advanced Concepts\OpencartAutomation\master.xml
+

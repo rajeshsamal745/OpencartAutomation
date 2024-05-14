@@ -1,0 +1,63 @@
+07:31:11.291 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+07:31:11.299 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+07:31:11.303 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+07:31:11.303 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+07:31:11.304 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+07:31:11.305 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+07:31:11.307 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+07:31:11.308 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+07:31:11.308 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+07:31:11.308 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+07:31:11.311 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+07:31:11.312 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+07:31:11.314 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+07:31:11.314 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+07:31:11.315 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+07:31:11.315 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+07:31:11.330 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\hp\AppData\Local\Temp\testng-eclipse--611757651\testng-customsuite.xml
+
+07:31:11.364 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+07:31:11.745 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1e63ec0b: 105 ms
+07:31:11.993 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@73ff4fae: 247 ms
+07:31:12.029 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7fc44dec: 35 ms
+07:31:12.068 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@71984c3: 39 ms
+07:31:12.084 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1de5f0ef: 16 ms
+07:31:12.094 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@51850751: 9 ms
+07:31:12.095 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3ce3db41: 0 ms
+07:31:22.911 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Advanced Concepts\OpencartAutomation\master.xml
+
+07:31:27.652 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_006_EndToEndTest *****
+07:33:22.759 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Advanced Concepts\OpencartAutomation\master.xml
+
+07:33:27.361 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_006_EndToEndTest *****
+07:35:49.623 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Advanced Concepts\OpencartAutomation\master.xml
+
+07:35:54.025 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_006_EndToEndTest *****
+07:51:05.588 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Advanced Concepts\OpencartAutomation\master.xml
+
+07:51:11.332 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_006_EndToEndTest *****
+07:58:02.131 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Advanced Concepts\OpencartAutomation\master.xml
+
+07:58:13.279 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_006_EndToEndTest *****
+07:59:31.883 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Advanced Concepts\OpencartAutomation\master.xml
+
+07:59:37.355 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_006_EndToEndTest *****
+08:01:01.960 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Advanced Concepts\OpencartAutomation\master.xml
+
+08:01:06.979 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_006_EndToEndTest *****
+08:38:26.128 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Advanced Concepts\OpencartAutomation\master.xml
+
+08:38:36.024 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_006_EndToEndTest *****
+08:46:01.811 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Java Advanced Concepts\OpencartAutomation\master.xml
+
+08:46:07.935 [main] INFO  testCases.TC_006_EndToEndTest - *** Starting TC_006_EndToEndTest *****
